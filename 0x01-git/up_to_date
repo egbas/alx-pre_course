@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git touch up_to_date was used
+=======
+git pull was used to get the update and touch up_to_date to create a new file
+>>>>>>> 16c158c4abf3b6c92516f21c9071ddd31ea04b1d
